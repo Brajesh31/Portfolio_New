@@ -25,43 +25,43 @@ export const blogPosts: BlogPost[] = [
     "id": "19",
     "title": "🚀 From the Audience to the Organizer's Stage: TechFront 2025 Was Built to Inspire!",
     "summary": "TechFront: AI x Blockchain Summit 2025 wasn’t just another event — it was a community-powered movement. From panel discussions to mentorship, here’s how we built an experience that resonated.",
-    "content": `🚀 **From the Audience to the Organizer's Stage: TechFront 2025 Was Built to Inspire!**
+    "content": `🚀 From the Audience to the Organizer's Stage: TechFront 2025 Was Built to Inspire!
 
-Just a year ago, I was attending events, taking notes, and wondering what it takes to run something impactful. On **July 12th, 2025**, that question turned into action.
+Just a year ago, I was attending events, taking notes, and wondering what it takes to run something impactful. On July 12th, 2025, that question turned into action.
 
-📍 **TechFront: AI x Blockchain Summit 2025**, hosted at **Thoughtworks, Gurugram**, wasn’t just another tech meetup; it was a living, breathing showcase of what happens when **passion meets purpose**.
+📍 TechFront: AI x Blockchain Summit 2025, hosted at Thoughtworks, Gurugram, wasn’t just another tech meetup; it was a living, breathing showcase of what happens when passion meets purpose.
 
-Organized by **Tech Dev Club** in collaboration with **HackwithIndia**, and powered by **Devnovate**, we brought together **130+ attendees** — students, professionals, developers, educators, startup founders — all eager to build, learn, and shape the future of emerging technologies.
+Organized by Tech Dev Club in collaboration with HackwithIndia, and powered by Devnovate, we brought together 130+ attendees — students, professionals, developers, educators, startup founders — all eager to build, learn, and shape the future of emerging technologies.
 
-🔥 **What Made TechFront 2025 Different?**
+🔥 What Made TechFront 2025 Different?
 This wasn’t your average “keynote + photo-op” tech event. Instead, we curated:
-- 🎤 **Panel discussions** on safer AI, scalable blockchain, and realistic career paths
-- 🤝 **Community-first spaces** for deep conversations and real-world collaborations
-- 🧠 **Mentorship**, swag, certificates, and plenty of unforgettable moments
+- 🎤 Panel discussions on safer AI, scalable blockchain, and realistic career paths
+- 🤝 Community-first spaces for deep conversations and real-world collaborations
+- 🧠 Mentorship, swag, certificates, and plenty of unforgettable moments
 
-🎙 **Speaker Highlights**
+🎙 Speaker Highlights
 We welcomed thought leaders from across the tech space:
-- 🔹 **Mukul Goyal** – Breaking blockchain beyond crypto for real-world use
-- 🔹 **ARGHYA K. GUHA** – AI-driven ERP & MarComm workflows
-- 🔹 **Aashi Gupta** – Guardrails for safe and ethical LLM deployment
-- 🔹 **Arun Kumar Yadav** – Blockchain’s potential for the next billion users
-- 🔹 **Kuldeep Singh Rathore & Adfar Rasheed (PW)** – GATE prep, upskilling, and building tech-ready India
+- 🔹 Mukul Goyal – Breaking blockchain beyond crypto for real-world use
+- 🔹 ARGHYA K. GUHA – AI-driven ERP & MarComm workflows
+- 🔹 Aashi Gupta – Guardrails for safe and ethical LLM deployment
+- 🔹 Arun Kumar Yadav – Blockchain’s potential for the next billion users
+- 🔹 Kuldeep Singh Rathore & Adfar Rasheed (PW) – GATE prep, upskilling, and building tech-ready India
 
-Their talks weren’t just informative — they were **actionable blueprints** for innovation.
+Their talks weren’t just informative — they were actionable blueprints for innovation.
 
-💼 **Meet the Brains Behind the Show**
+💼 Meet the Brains Behind the Show
 Proud to co-organize this summit with:
-- Organizers: **Kumar Gaurav Tiwari**, **Brajesh Kumar**, **Vani Sen**, **Bhavya Shukla**
-- Volunteers: **Ishika Patel**, **ARYAN RAJ**, **Aditya Dhanraj**, **Udit Singh**, **Adarsh Kumar**, **Nikhil Sagar**, **Priyam Kumar**, **Aman Jyoti Jha**
+- Organizers: Kumar Gaurav Tiwari, Brajesh Kumar, Vani Sen, Bhavya Shukla
+- Volunteers: Ishika Patel, ARYAN RAJ, Aditya Dhanraj, Udit Singh, Adarsh Kumar, Nikhil Sagar, Priyam Kumar, Aman Jyoti Jha
 
 You made the experience seamless, empowering, and unforgettable. 🙌
 
-🤝 **And the Energy? Next Level.**
-We had attendees like **Shruti Gautam**, **Sakshi Chaturvedi**, **Damanveer Singh**, **Shivang Yadav**, **Akshat Agarwal**, and so many more — each bringing curiosity, questions, and collaboration to the table.
+🤝 And the Energy? Next Level.
+We had attendees like Shruti Gautam, Sakshi Chaturvedi, Damanveer Singh, Shivang Yadav, Akshat Agarwal, and so many more — each bringing curiosity, questions, and collaboration to the table.
 
-✨ It’s one thing to attend an event. It’s another to feel like you’re part of a **movement**.
+✨ It’s one thing to attend an event. It’s another to feel like you’re part of a movement.
 
-🔗 **Explore more**:  
+🔗 Explore more:  
 📲 [Tech Dev Club](https://techdevclub.com) — Stay tuned for what’s next!`,
     "date": "2025-07-12",
     "readingTime": "4 min",
@@ -103,30 +103,30 @@ We had attendees like **Shruti Gautam**, **Sakshi Chaturvedi**, **Damanveer Sing
     "id": "18",
     "title": "Reimagining CLI Productivity with Amazon Q Developer – AWS UG NCR Event Recap",
     "summary": "Explored AI-powered CLI workflows with Amazon Q Developer at AWS Office, Gurugram. A hands-on event that showcased the future of cloud productivity.",
-    "content": `🚀 Thrilled to be part of an inspiring and hands-on event hosted by **AWS User Group NCR** at the **Amazon Web Services (AWS) Office, Gurugram** on June 27 —  
-“**Reimagining CLI Productivity with Amazon Q Developer**” 🌟
+    "content": `🚀 Thrilled to be part of an inspiring and hands-on event hosted by AWS User Group NCR at the Amazon Web Services (AWS) Office, Gurugram on June 27 —  
+“Reimagining CLI Productivity with Amazon Q Developer” 🌟
 
-As a tech enthusiast and someone constantly exploring how AI can enhance developer workflows, this session was a deep dive into what the future of cloud productivity looks like — and it’s already here with **Amazon Q Developer**! ⚙️
+As a tech enthusiast and someone constantly exploring how AI can enhance developer workflows, this session was a deep dive into what the future of cloud productivity looks like — and it’s already here with Amazon Q Developer! ⚙️
 
 We explored:  
 ✅ Seamless integration of Q Developer with IDEs and the CLI  
-✅ Natural language to CLI command generation — yes, you can literally *"talk"* your way into deploying and managing!  
+✅ Natural language to CLI command generation — yes, you can literally "talk" your way into deploying and managing!  
 ✅ Live comparison: traditional CLI vs Q-enhanced CLI workflows  
 ✅ Real-time troubleshooting, doc fetching, and log exploration — all without switching tools  
 
-The **practical demos** and **real-world scenarios** made it even more valuable, transforming complex command-line workflows into intuitive, AI-augmented processes.
+The practical demos and real-world scenarios made it even more valuable, transforming complex command-line workflows into intuitive, AI-augmented processes.
 
-🎤 **Big shoutout to our brilliant speakers**:  
-🔹 **Anutosh ☁️**  
-🔹 **Iqbaal Singh**  
+🎤 Big shoutout to our brilliant speakers:  
+🔹 Anutosh ☁️  
+🔹 Iqbaal Singh  
 Their insights and live walkthroughs brought a fresh perspective to developer efficiency.
 
 🎯 Huge thanks to the amazing organizers who made this happen:  
-🔸 **Rajat Arora**  
-🔸 **Dipali Kulshrestha**  
+🔸 Rajat Arora  
+🔸 Dipali Kulshrestha  
 Your efforts made this power-packed community event possible — insightful, interactive, and truly relevant.
 
-From the thoughtful sessions to the vibrant crowd and memorable networking, this event was a real reflection of how AI is **reshaping the developer experience**. 🤖💡
+From the thoughtful sessions to the vibrant crowd and memorable networking, this event was a real reflection of how AI is reshaping the developer experience. 🤖💡
 
 Grateful to have been a part of it as an attendee — and excited to start applying what I’ve learned.
 
