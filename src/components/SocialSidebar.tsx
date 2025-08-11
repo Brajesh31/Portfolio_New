@@ -81,55 +81,61 @@ const socialLinks = [
 
 const SocialSidebar = () => {
   const { theme } = useTheme();
-  
+
   return (
-    <aside 
-      className="fixed right-6 top-[25%] z-40 flex flex-col gap-4"
-      aria-label="Social Media Links"
-      role="complementary"
-    >
-      <motion.div
-        initial={{ opacity: 0, x: 100 }}
-        animate={{ opacity: 1, x: 0 }}
-        transition={{ duration: 0.5 }}
-        className="flex flex-col gap-4"
+      <aside
+          className={`
+        fixed z-40 flex gap-4
+        flex-row bottom-4 left-1/2 -translate-x-1/2  /* Mobile default */
+        sm:flex-col sm:bottom-auto sm:left-auto sm:translate-x-0 sm:right-6 sm:top-[25%]
+      `}
+          aria-label="Social Media Links"
+          role="complementary"
       >
-        {socialLinks.map((link, index) => (
-          <motion.a
-            key={link.name}
-            href={link.href}
-            target="_blank"
-            rel="noopener noreferrer"
-            initial={{ opacity: 0, x: 50 }}
+        <motion.div
+            initial={{ opacity: 0, x: 100 }}
             animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.3, delay: index * 0.1 }}
-            className={`p-3.5 rounded-full backdrop-blur-lg
+            transition={{ duration: 0.5 }}
+            className="flex flex-row sm:flex-col gap-4"
+        >
+          {socialLinks.map((link, index) => (
+              <motion.a
+                  key={link.name}
+                  href={link.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  initial={{ opacity: 0, x: 50 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ duration: 0.3, delay: index * 0.1 }}
+                  className={`p-3.5 rounded-full backdrop-blur-lg
               ${theme === 'dark' ? 'bg-dark-card/30' : 'bg-light-card/30'}
               ${link.color} hover:text-white
               transform hover:scale-110 hover:shadow-lg
               transition-all duration-300 group`}
-            aria-label={link.ariaLabel}
-            title={link.title}
-            data-keywords={link.keywords}
-          >
-            <link.icon className="w-5 h-5" aria-hidden="true" />
-            <span className="sr-only">{link.name}</span>
-          </motion.a>
-        ))}
-        
-        <motion.div
-          initial={{ height: 0, opacity: 0 }}
-          animate={{ height: 80, opacity: 1 }}
-          transition={{ duration: 0.5, delay: 0.6 }}
-          className={`w-px mx-auto bg-gradient-to-b 
-            ${theme === 'dark' 
-              ? 'from-dark-accent-primary to-dark-accent-secondary' 
-              : 'from-light-accent-primary to-light-accent-secondary'}`}
-          aria-hidden="true"
-        />
-      </motion.div>
-    </aside>
+                  aria-label={link.ariaLabel}
+                  title={link.title}
+                  data-keywords={link.keywords}
+              >
+                <link.icon className="w-5 h-5" aria-hidden="true" />
+                <span className="sr-only">{link.name}</span>
+              </motion.a>
+          ))}
+
+          {/* Divider visible only on desktop */}
+          <motion.div
+              initial={{ height: 0, opacity: 0 }}
+              animate={{ height: 80, opacity: 1 }}
+              transition={{ duration: 0.5, delay: 0.6 }}
+              className={`hidden sm:block w-px mx-auto bg-gradient-to-b 
+            ${theme === 'dark'
+                  ? 'from-dark-accent-primary to-dark-accent-secondary'
+                  : 'from-light-accent-primary to-light-accent-secondary'}`}
+              aria-hidden="true"
+          />
+        </motion.div>
+      </aside>
   );
 };
+
 
 export default SocialSidebar;

@@ -98,8 +98,7 @@ We had attendees like **Shruti Gautam**, **Sakshi Chaturvedi**, **Damanveer Sing
       "India Tech Community", "Startup Culture", "Future Tech"
     ],
     "featured": true,
-    "linkedin": "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_techfront-2025-ai-blockchain-summit-activity-xxxxxx/"
-  },
+    },
   {
     "id": "18",
     "title": "Reimagining CLI Productivity with Amazon Q Developer – AWS UG NCR Event Recap",
@@ -154,8 +153,7 @@ Let’s keep building, exploring, and sharing — together! 🚀`,
       "IDE", "Productivity Hacks", "Q Developer", "Future of Work"
     ],
     "featured": false,
-    "linkedin": "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_amazonqdeveloper-aws-cli-productivity-activity-xxxxxxx/"
-  },
+    },
   {
     "id": "17",
     "title": "Social Summer Of Code 4.0: Open Source, Real Conversations & Future-Proof Tech",
@@ -223,8 +221,7 @@ Let’s connect. I’m always up to share, collaborate, and contribute to meanin
       "Digital Identity", "Tech Careers", "GitHub", "Open Innovation", "Future of Work"
     ],
     "featured": false,
-    "linkedin": "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_socialsummerofcode-open-source-devrel-activity-xxxxxxx/"
-  },
+    },
   {
     "id": "16",
     "title": "Social Summer Of Code 4.0 – Debugging Motivation, Not Just Code",
@@ -307,8 +304,7 @@ This summer, I’m contributing with curiosity and just enough caffeine. ☕🚀
       "Memes in Tech"
     ],
     "featured": true,
-    "linkedin": "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_ssoc4-techcommunity-open-source-activity-7167654301234567890-example"
-  },
+    },
   {
     id: '15',
     title: 'Designing Fearlessly: UI/UX in the Age of AI',
@@ -459,8 +455,7 @@ Let's collaborate, innovate, and grow — for India and beyond. 🌐
     ],
     "tags": [...globalKeywords.slice(0, 20), 'OpenAI', 'IndiaAI', 'Future Skills', 'MeitY', 'AI Literacy', 'Event'],
     "featured": true,
-    "linkedin": "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_openaiacademy-indiaai-meity-activity-7336473782242414592-QOtx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '2',
     title: 'AICamp Meetup at Tata 1mg – Gurugram: Where Vision Met Reality',
@@ -520,8 +515,7 @@ I walked away not just with knowledge — but with direction.
     ],
     tags: [...globalKeywords.slice(0, 20), 'AI', 'GenAI', 'AICamp', 'Tata 1mg', 'Tech Community', 'Event'],
     featured: true,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_aicamp-futurewithai-genai-activity-7335668379482826753-uZMs?utm_source=share&utm_medium=member_desktop"
-  },
+    },
   {
     id: '3',
     title: 'Power BI & AI Summit 2025 – Delhi Edition: My Key Takeaways',
@@ -564,8 +558,7 @@ I left feeling curious, inspired, and ready to build smarter.`,
     ],
     tags: ['AI', 'Summit', 'Power BI', 'Microsoft', 'Event'],
     featured: true,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_powerbisummit-aisummit2025-microsoftgurugram-activity-7332381298121953280-7tmg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '4',
     title: 'Business Networking Meetup at Coffee Home, Connaught Place',
@@ -594,8 +587,7 @@ Looking forward to more such experiences that blur the line between professional
     ],
     tags: ['Business', 'Networking', 'Meetup', 'Event'],
     featured: true,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_aiforbusiness-businessinnovation-generativeai-activity-7330105177502380032-7ntK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '5',
     title: 'AI.NXT AI Summit – Gurugram',
@@ -635,8 +627,7 @@ Grateful to be part of a community that's pushing the boundaries of what's possi
     ],
     tags: ['AI', 'Summit', 'Machine Learning', 'Networking'],
     featured: true,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_ainxt-aisummit-generativeai-activity-7329798634399600640--1hj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '6',
     title: 'APIs. Kafka. Cloud. Connections – Meetup & Workshop at WeWork, Gurugram',
@@ -681,8 +672,7 @@ Events like this remind me how important it is to stay connected, stay curious, 
     ],
     tags: ['API', 'Kafka', 'Cloud', 'Meetup', 'Workshop'],
     featured: false,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_apis-konggateway-kongkonnect-activity-7327557360242053121-1zDk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '7',
     title: 'Business4.0 Meetup – AI for Business Augmentation',
@@ -716,8 +706,7 @@ Here's to more learning, more collaboration, and a smarter, more connected tomor
     ],
     tags: ['AI', 'Business', 'Generative AI', 'Networking'],
     featured: false,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_aiforbusiness-businessinnovation-generativeai-activity-7324684940606894080--xZn?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '8',
     title: 'How Artists Are Using AI as a Creative Collaborator (Microsoft Office, Gurugram)',
@@ -756,8 +745,7 @@ The future of art, music, and innovation is now — and it's just getting starte
     ],
     tags: ['AI', 'Creativity', 'Music', 'Art', 'Event'],
     featured: false,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_ai-artificialintelligence-aiart-activity-7322542088410021888-6Rua?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '9',
     title: 'How Artists Are Using AI as a Creative Collaborator (Alternate Recap, Microsoft Office, Gurugram)',
@@ -802,8 +790,7 @@ I am super inspired to dive deeper into the possibilities of AI-powered music pr
     ],
     tags: ['AI', 'Music', 'Art', 'Creativity', 'Event'],
     featured: false,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_aicomposition-aivocals-musicai-activity-7322495032240812033-RhZp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '10',
     title: 'StartingMahakumbh2025 – A Confluence of Ideas, Technology & Entrepreneurship',
@@ -846,8 +833,7 @@ Let's keep building the #FutureOfTech together! 💻⚙️`,
     ],
     tags: ['Startup', 'Innovation', 'Entrepreneurship', 'Technology', 'Event'],
     featured: false,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_startingmahakumbh2025-startingmahakumbh-innovation-activity-7314995772746285057-Q6ZD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '11',
     title: 'Inclusive Design Research: Advancing UX in the Social Impact Sector',
@@ -896,8 +882,7 @@ Let's continue building a world where design speaks to everyone — with empathy
     ],
     tags: ['UX', 'Design', 'Research', 'Social Impact', 'Event'],
     featured: false,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_design-research-gurugram-activity-7314522499205992448-Ikj4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '12',
     title: 'AI.NXT AI Summit Gurugram (March 29, 2025)',
@@ -949,8 +934,7 @@ The experience was even more memorable and impactful because I got to explore th
     ],
     tags: ['AI', 'Cloud', 'Microsoft', 'Summit', 'Generative AI'],
     featured: false,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_ainxt-ai-generativeai-activity-7312166978075422720-BE7l?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '13',
     title: 'AI.NXT AI Summit Gurugram – A Deep Dive into AI & Cloud!',
@@ -1002,8 +986,7 @@ Let's connect and discuss how AI is shaping the future! 🚀`,
     ],
     tags: ['AI', 'Cloud', 'Generative AI', 'Event', 'Microsoft'],
     featured: false,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_ainxt-ai-generativeai-activity-7311977808514232320-K3ok?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  },
+    },
   {
     id: '14',
     title: 'Redefining Autonomy: Designing Smarter Drone Systems for Seamless Interactions',
@@ -1037,8 +1020,7 @@ As we move deeper into the era of #AutonomousSystems, one thing is clear—our a
     ],
     tags: ['Drone', 'Autonomy', 'UX', 'AI', 'Event'],
     featured: false,
-    linkedin: "https://www.linkedin.com/posts/brajesh-kumar-9b58651a8_drone-interactions-autonomousdronesystems-activity-7299113247222198273-fui9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCJbVkBL4mpYTJ2XrizFU62a7YHFvVcvoQ"
-  }
+    }
 
 ];
 

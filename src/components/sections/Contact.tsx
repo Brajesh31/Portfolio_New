@@ -33,7 +33,7 @@ const contactInfo = [
 ];
 
 const ContactCard: React.FC<{ info: (typeof contactInfo)[0] }> = ({ info }) => {
-  const { theme } = useTheme();
+  useTheme();
   
   return (
     <motion.div
@@ -78,7 +78,7 @@ const Contact = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitSuccess, setSubmitSuccess] = useState(false);
   const [submitError, setSubmitError] = useState('');
-  const { theme } = useTheme();
+  useTheme();
 
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>

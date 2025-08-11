@@ -1,9 +1,8 @@
 // Services page redesigned with 3D, glassmorphism, and creative UI by Bolt AI on 2025-01-27. No SEO/Milestone edits.
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence, useMotionValue, useSpring, useTransform } from 'framer-motion';
-import { ChevronDown, Send, ExternalLink, Code, Brain, Database, Cloud, Palette, GraduationCap, Sparkles, Zap, Layers, Cpu, Globe, Rocket } from 'lucide-react';
+import { ChevronDown, Send, ExternalLink, Code, Brain, Database, Cloud, Palette, GraduationCap, Sparkles, Rocket } from 'lucide-react';
 import { Link, useNavigate } from 'react-router-dom';
-import SectionHeading from '../common/SectionHeading';
 import { useTheme } from '../ThemeProvider';
 
 interface SubService {
@@ -252,7 +251,6 @@ const ServiceCard: React.FC<{ service: ServiceCategory; index: number }> = ({ se
       onMouseMove={handleMouseMove}
       onMouseLeave={handleMouseLeave}
       onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
     >
       <motion.div
         style={transform}

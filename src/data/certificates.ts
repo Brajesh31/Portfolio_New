@@ -1,7 +1,6 @@
 // SEO keywords globally merged by Bolt AI on 2025-01-27 for maximum ranking – excludes milestone page
 // Import images (adjust path/filenames as needed)
 import canvaImg from '../assets/canva.jpg';
-import canvaWebImg from '../assets/canva-webpages.jpg';
 import uxPortfolioImg from '../assets/ux-portfolio.jpg';
 import pitchDeckImg from '../assets/pitch-deck.jpg';
 import websiteVideosImg from '../assets/website-videos.jpg';

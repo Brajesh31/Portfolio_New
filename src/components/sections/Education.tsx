@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import { School } from 'lucide-react';
@@ -22,7 +21,7 @@ const educationList = [
   {
     institution: 'Delhi Public School',
     degree: 'Higher Secondary Education (12th Grade)',
-    location: 'Madhubani',
+    location: 'Bareilly',
     date: '2021 - 2023',
     logo: '/dps.png',
     details: [
@@ -34,7 +33,7 @@ const educationList = [
   {
     institution: 'Delhi Public School',
     degree: 'Secondary Education (10th Grade)',
-    location: 'Madhubani',
+    location: 'Bareilly',
     date: '2019 - 2021',
     logo: '/dps.png',
     details: [

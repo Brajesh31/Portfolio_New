@@ -1,10 +1,9 @@
 import React, { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Calendar, Filter, Search, ExternalLink, Award, Briefcase, Code, GraduationCap, Users, BookOpen, Target, Lightbulb, ChevronDown, ChevronUp, Download, FileText, Link as LinkIcon, AlignCenterVertical as Certificate, Presentation, Folder, Github, Globe } from 'lucide-react';
+import { Calendar, Search, ExternalLink, Award, Code, GraduationCap, Users, BookOpen, Target, Lightbulb, ChevronDown, ChevronUp, Download, FileText, Link as LinkIcon, AlignCenterVertical as Certificate, Presentation, Folder, Github, Globe } from 'lucide-react';
 import SectionHeading from '../components/common/SectionHeading';
 import MetaTags from '../components/SEO/MetaTags';
-import { useTheme } from '../components/ThemeProvider';
-import { 
+import {
   milestones, 
   resources, 
   projectResources,
@@ -12,7 +11,6 @@ import {
   getResourcesByYear, 
   getUniqueYears, 
   getUniqueTypes, 
-  getUniqueResourceTypes,
   getAllProjectsAlphabetically,
   type Milestone,
   type Resource,

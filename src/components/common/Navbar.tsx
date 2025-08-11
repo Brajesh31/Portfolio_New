@@ -1,5 +1,5 @@
 // SEO keywords globally merged by Bolt AI on 2025-01-27 for maximum ranking – excludes milestone page
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Menu, X, Sun, Moon } from 'lucide-react';
 import { Link, useLocation } from 'react-router-dom';
